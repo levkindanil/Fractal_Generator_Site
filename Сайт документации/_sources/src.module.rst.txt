@@ -1,0 +1,58 @@
+Submodules
+__________
+
+src.video\_shuter\_module.capture\_teritory module
+____________________________________
+
+.. automodule:: src.video_shuter_module.capture_teritory
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.video\_shuter\_module.change\_model module
+__________________________________________________________
+
+.. automodule:: src.video_shuter_module.change_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.video\_shuter\_module.destroying\_world module
+___________________________________________
+
+.. automodule:: src.video_shuter_module.destroying_world
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.video\_shuter\_module.pers module
+___________________________________
+
+.. automodule:: src.video_shuter_module.pers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.video\_shuter\_module.save\_point module
+______________________________________________
+
+.. automodule:: src.video_shuter_module.save_point
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.video\_shuter\_module.shoot module
+______________________________________________
+
+.. automodule:: src.video_shuter_module.shoot
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.video\_shuter\_module.start\_game module
+_____________________________________________________
+
+.. automodule:: src.video_shuter_module.start_game
+   :members:
+   :undoc-members:
+   :show-inheritance:
