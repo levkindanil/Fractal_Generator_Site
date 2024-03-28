@@ -1,0 +1,66 @@
+Submodules
+__________
+
+src.fractal\_module.additional\_features module
+____________________________________
+
+.. automodule:: src.fractal_module.additional_features
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.animations module
+__________________________________________________________
+
+.. automodule:: src.fractal_module.animations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.data\_persistence module
+___________________________________________
+
+.. automodule:: src.fractal_module.data_persistence
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.fractal\_management module
+___________________________________
+
+.. automodule:: src.fractal_module.fractal_management
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.parallel\_processing module
+______________________________________________
+
+.. automodule:: src.fractal_module.parallel_processing
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.performance\_analyzer module
+______________________________________________
+
+.. automodule:: src.fractal_module.performance_analyzer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.setting\_parameters module
+_____________________________________________________
+
+.. automodule:: src.fractal_module.setting_parameters
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.fractal\_module.visualization\_and\_display module
+_____________________________________________________
+
+.. automodule:: src.fractal_module.visualization_and_display
+   :members:
+   :undoc-members:
+   :show-inheritance:
